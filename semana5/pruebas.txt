@@ -1,0 +1,7 @@
+resultados
+
+Al ingresar a las diferentes rutas como lo fue a http://localhost:3000 se vio un mensaje en la pantalla en la parte izquierda arriba donde decía "servidor activo"
+
+el siguiente fue http://localhost:3000/saludo el cual se leía el enunciado "Hola comunidad"
+
+al ingresar a la ruta http://localhost:3000/mensaje/juan igualmente se podía leer un pequeño texto en la misma ubicación de la anteriores en el cual decía "Hola Juan".
