@@ -1,0 +1,11 @@
+Ejemplo 1:
+{
+  "tipo": "Atencion al cliente",
+  "descripcion": "Falta de personal para una mejor"
+}
+
+Ejemplo 2:
+{
+  "tipo": "Delincuencia",
+  "descripcion": "Falta de presencia de vigilancia en el sector"
+}

@@ -1,0 +1,2 @@
+Cuando consulto los reportes, lo que pasa es que se ejecuta una petición GET, o sea, una consulta de solo lectura.
+ le pide al servidor que le muestre los datos que ya están guardados; el servidor va, los busca en la base de datos y me los devuelve para que se pinten en la pantalla. Es simplemente traer información para revisarla, sin alterar ni modificar nada en el sistema.
