@@ -1,0 +1,4 @@
+{
+    "tipo": "excrementos mascotas",
+    "descripcion": "se reporta que algunos habitantes del sector no estan realizando la debida recoleccion de los deshechos de sus mascotas."
+}  
