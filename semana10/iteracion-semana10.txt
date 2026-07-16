@@ -1,0 +1,14 @@
+¿Qué 2 tareas del backlog harías primero?
+Primero implementaría el registro de incidencias y luego el envío de notificaciones al coordinador cuando se cree un nuevo reporte.
+
+¿Por qué son las más importantes?
+Porque sin el registro de incidencias los ciudadanos no podrían reportar problemas, y sin las notificaciones el equipo de veeduría podría tardar en atender los casos. Estas dos funciones son la base para que la plataforma cumpla su objetivo.
+
+ ¿Qué significa para ti que una tarea esté “terminada”?
+Para mí, una tarea está terminada cuando cumple con lo que se pidió, funciona correctamente y está lista para ser utilizada sin problemas.
+
+Definición simple de terminado:
+
+Funciona correctamente.
+Fue probada y no presenta errores.
+Quedó registrada en Git con sus cambios guardados.
