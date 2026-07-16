@@ -1,0 +1,8 @@
+Evento:
+Se activa cuando un ciudadano registra una nueva causa en la plataforma.
+
+Mensaje:
+"Nueva causa creada en la plataforma. Revise el sistema para conocer los detalles y realizar el seguimiento correspondiente."
+
+Información que no debe enviarse por seguridad:
+No se deben enviar cédulas, números de teléfono, direcciones, correos electrónicos, contraseñas, comentarios privados ni ningún otro dato personal o sensible de los ciudadanos.

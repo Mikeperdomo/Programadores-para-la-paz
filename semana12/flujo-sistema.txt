@@ -1,0 +1,10 @@
+Flujo del sistema Petición en 3 Clics
+
+1. Un ciudadano ingresa a la plataforma y crea una nueva causa o petición comunitaria.
+2. El sistema registra la información de la causa en la base de datos.
+3. La causa queda publicada en la lista de causas disponibles para toda la comunidad.
+4. Otros ciudadanos pueden leer la causa y presionar el botón de apoyo para respaldarla.
+5. El sistema registra cada apoyo y actualiza automáticamente el contador de apoyos.
+6. El coordinador o equipo de veeduría recibe una notificación cuando la causa alcanza un número importante de apoyos.
+7. El sistema genera un documento PDF con la petición y el resumen de apoyos para enviarlo a la entidad correspondiente.
+8. Finalmente, la plataforma guarda el historial de la petición y permite consultar su estado y las respuestas recibidas.
